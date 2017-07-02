@@ -1,0 +1,356 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ._AndroidManifest.xml
+* ._gen
+* ._javadoc
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+* javadoc/
+* javadoc/._allclasses-frame.html
+* javadoc/._allclasses-noframe.html
+* javadoc/._constant-values.html
+* javadoc/._help-doc.html
+* javadoc/._index-all.html
+* javadoc/._index.html
+* javadoc/._org
+* javadoc/._overview-frame.html
+* javadoc/._overview-summary.html
+* javadoc/._overview-tree.html
+* javadoc/._package-list
+* javadoc/._resources
+* javadoc/._serialized-form.html
+* javadoc/._stylesheet.css
+* javadoc/allclasses-frame.html
+* javadoc/allclasses-noframe.html
+* javadoc/constant-values.html
+* javadoc/help-doc.html
+* javadoc/index-all.html
+* javadoc/index.html
+* javadoc/org/
+* javadoc/org/._opencv
+* javadoc/org/opencv/
+* javadoc/org/opencv/._android
+* javadoc/org/opencv/._calib3d
+* javadoc/org/opencv/._core
+* javadoc/org/opencv/._features2d
+* javadoc/org/opencv/._highgui
+* javadoc/org/opencv/._imgproc
+* javadoc/org/opencv/._ml
+* javadoc/org/opencv/._objdetect
+* javadoc/org/opencv/._photo
+* javadoc/org/opencv/._utils
+* javadoc/org/opencv/._video
+* javadoc/org/opencv/android/
+* javadoc/org/opencv/android/._BaseLoaderCallback.html
+* javadoc/org/opencv/android/._CameraBridgeViewBase.CvCameraViewFrame.html
+* javadoc/org/opencv/android/._CameraBridgeViewBase.CvCameraViewListener.html
+* javadoc/org/opencv/android/._CameraBridgeViewBase.CvCameraViewListener2.html
+* javadoc/org/opencv/android/._CameraBridgeViewBase.ListItemAccessor.html
+* javadoc/org/opencv/android/._CameraBridgeViewBase.html
+* javadoc/org/opencv/android/._FpsMeter.html
+* javadoc/org/opencv/android/._InstallCallbackInterface.html
+* javadoc/org/opencv/android/._JavaCameraView.JavaCameraSizeAccessor.html
+* javadoc/org/opencv/android/._JavaCameraView.html
+* javadoc/org/opencv/android/._LoaderCallbackInterface.html
+* javadoc/org/opencv/android/._NativeCameraView.OpenCvSizeAccessor.html
+* javadoc/org/opencv/android/._NativeCameraView.html
+* javadoc/org/opencv/android/._OpenCVLoader.html
+* javadoc/org/opencv/android/._Utils.html
+* javadoc/org/opencv/android/._package-frame.html
+* javadoc/org/opencv/android/._package-summary.html
+* javadoc/org/opencv/android/._package-tree.html
+* javadoc/org/opencv/android/BaseLoaderCallback.html
+* javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewFrame.html
+* javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener.html
+* javadoc/org/opencv/android/CameraBridgeViewBase.CvCameraViewListener2.html
+* javadoc/org/opencv/android/CameraBridgeViewBase.ListItemAccessor.html
+* javadoc/org/opencv/android/CameraBridgeViewBase.html
+* javadoc/org/opencv/android/FpsMeter.html
+* javadoc/org/opencv/android/InstallCallbackInterface.html
+* javadoc/org/opencv/android/JavaCameraView.JavaCameraSizeAccessor.html
+* javadoc/org/opencv/android/JavaCameraView.html
+* javadoc/org/opencv/android/LoaderCallbackInterface.html
+* javadoc/org/opencv/android/NativeCameraView.OpenCvSizeAccessor.html
+* javadoc/org/opencv/android/NativeCameraView.html
+* javadoc/org/opencv/android/OpenCVLoader.html
+* javadoc/org/opencv/android/Utils.html
+* javadoc/org/opencv/android/package-frame.html
+* javadoc/org/opencv/android/package-summary.html
+* javadoc/org/opencv/android/package-tree.html
+* javadoc/org/opencv/calib3d/
+* javadoc/org/opencv/calib3d/._Calib3d.html
+* javadoc/org/opencv/calib3d/._StereoBM.html
+* javadoc/org/opencv/calib3d/._StereoSGBM.html
+* javadoc/org/opencv/calib3d/._package-frame.html
+* javadoc/org/opencv/calib3d/._package-summary.html
+* javadoc/org/opencv/calib3d/._package-tree.html
+* javadoc/org/opencv/calib3d/Calib3d.html
+* javadoc/org/opencv/calib3d/StereoBM.html
+* javadoc/org/opencv/calib3d/StereoSGBM.html
+* javadoc/org/opencv/calib3d/package-frame.html
+* javadoc/org/opencv/calib3d/package-summary.html
+* javadoc/org/opencv/calib3d/package-tree.html
+* javadoc/org/opencv/core/
+* javadoc/org/opencv/core/._Algorithm.html
+* javadoc/org/opencv/core/._Core.MinMaxLocResult.html
+* javadoc/org/opencv/core/._Core.html
+* javadoc/org/opencv/core/._CvException.html
+* javadoc/org/opencv/core/._CvType.html
+* javadoc/org/opencv/core/._Mat.html
+* javadoc/org/opencv/core/._MatOfByte.html
+* javadoc/org/opencv/core/._MatOfDMatch.html
+* javadoc/org/opencv/core/._MatOfDouble.html
+* javadoc/org/opencv/core/._MatOfFloat.html
+* javadoc/org/opencv/core/._MatOfFloat4.html
+* javadoc/org/opencv/core/._MatOfFloat6.html
+* javadoc/org/opencv/core/._MatOfInt.html
+* javadoc/org/opencv/core/._MatOfInt4.html
+* javadoc/org/opencv/core/._MatOfKeyPoint.html
+* javadoc/org/opencv/core/._MatOfPoint.html
+* javadoc/org/opencv/core/._MatOfPoint2f.html
+* javadoc/org/opencv/core/._MatOfPoint3.html
+* javadoc/org/opencv/core/._MatOfPoint3f.html
+* javadoc/org/opencv/core/._MatOfRect.html
+* javadoc/org/opencv/core/._Point.html
+* javadoc/org/opencv/core/._Point3.html
+* javadoc/org/opencv/core/._Range.html
+* javadoc/org/opencv/core/._Rect.html
+* javadoc/org/opencv/core/._RotatedRect.html
+* javadoc/org/opencv/core/._Scalar.html
+* javadoc/org/opencv/core/._Size.html
+* javadoc/org/opencv/core/._TermCriteria.html
+* javadoc/org/opencv/core/._package-frame.html
+* javadoc/org/opencv/core/._package-summary.html
+* javadoc/org/opencv/core/._package-tree.html
+* javadoc/org/opencv/core/Algorithm.html
+* javadoc/org/opencv/core/Core.MinMaxLocResult.html
+* javadoc/org/opencv/core/Core.html
+* javadoc/org/opencv/core/CvException.html
+* javadoc/org/opencv/core/CvType.html
+* javadoc/org/opencv/core/Mat.html
+* javadoc/org/opencv/core/MatOfByte.html
+* javadoc/org/opencv/core/MatOfDMatch.html
+* javadoc/org/opencv/core/MatOfDouble.html
+* javadoc/org/opencv/core/MatOfFloat.html
+* javadoc/org/opencv/core/MatOfFloat4.html
+* javadoc/org/opencv/core/MatOfFloat6.html
+* javadoc/org/opencv/core/MatOfInt.html
+* javadoc/org/opencv/core/MatOfInt4.html
+* javadoc/org/opencv/core/MatOfKeyPoint.html
+* javadoc/org/opencv/core/MatOfPoint.html
+* javadoc/org/opencv/core/MatOfPoint2f.html
+* javadoc/org/opencv/core/MatOfPoint3.html
+* javadoc/org/opencv/core/MatOfPoint3f.html
+* javadoc/org/opencv/core/MatOfRect.html
+* javadoc/org/opencv/core/Point.html
+* javadoc/org/opencv/core/Point3.html
+* javadoc/org/opencv/core/Range.html
+* javadoc/org/opencv/core/Rect.html
+* javadoc/org/opencv/core/RotatedRect.html
+* javadoc/org/opencv/core/Scalar.html
+* javadoc/org/opencv/core/Size.html
+* javadoc/org/opencv/core/TermCriteria.html
+* javadoc/org/opencv/core/package-frame.html
+* javadoc/org/opencv/core/package-summary.html
+* javadoc/org/opencv/core/package-tree.html
+* javadoc/org/opencv/features2d/
+* javadoc/org/opencv/features2d/._DMatch.html
+* javadoc/org/opencv/features2d/._DescriptorExtractor.html
+* javadoc/org/opencv/features2d/._DescriptorMatcher.html
+* javadoc/org/opencv/features2d/._FeatureDetector.html
+* javadoc/org/opencv/features2d/._Features2d.html
+* javadoc/org/opencv/features2d/._GenericDescriptorMatcher.html
+* javadoc/org/opencv/features2d/._KeyPoint.html
+* javadoc/org/opencv/features2d/._package-frame.html
+* javadoc/org/opencv/features2d/._package-summary.html
+* javadoc/org/opencv/features2d/._package-tree.html
+* javadoc/org/opencv/features2d/DMatch.html
+* javadoc/org/opencv/features2d/DescriptorExtractor.html
+* javadoc/org/opencv/features2d/DescriptorMatcher.html
+* javadoc/org/opencv/features2d/FeatureDetector.html
+* javadoc/org/opencv/features2d/Features2d.html
+* javadoc/org/opencv/features2d/GenericDescriptorMatcher.html
+* javadoc/org/opencv/features2d/KeyPoint.html
+* javadoc/org/opencv/features2d/package-frame.html
+* javadoc/org/opencv/features2d/package-summary.html
+* javadoc/org/opencv/features2d/package-tree.html
+* javadoc/org/opencv/highgui/
+* javadoc/org/opencv/highgui/._Highgui.html
+* javadoc/org/opencv/highgui/._VideoCapture.html
+* javadoc/org/opencv/highgui/._package-frame.html
+* javadoc/org/opencv/highgui/._package-summary.html
+* javadoc/org/opencv/highgui/._package-tree.html
+* javadoc/org/opencv/highgui/Highgui.html
+* javadoc/org/opencv/highgui/VideoCapture.html
+* javadoc/org/opencv/highgui/package-frame.html
+* javadoc/org/opencv/highgui/package-summary.html
+* javadoc/org/opencv/highgui/package-tree.html
+* javadoc/org/opencv/imgproc/
+* javadoc/org/opencv/imgproc/._CLAHE.html
+* javadoc/org/opencv/imgproc/._Imgproc.html
+* javadoc/org/opencv/imgproc/._Moments.html
+* javadoc/org/opencv/imgproc/._Subdiv2D.html
+* javadoc/org/opencv/imgproc/._package-frame.html
+* javadoc/org/opencv/imgproc/._package-summary.html
+* javadoc/org/opencv/imgproc/._package-tree.html
+* javadoc/org/opencv/imgproc/CLAHE.html
+* javadoc/org/opencv/imgproc/Imgproc.html
+* javadoc/org/opencv/imgproc/Moments.html
+* javadoc/org/opencv/imgproc/Subdiv2D.html
+* javadoc/org/opencv/imgproc/package-frame.html
+* javadoc/org/opencv/imgproc/package-summary.html
+* javadoc/org/opencv/imgproc/package-tree.html
+* javadoc/org/opencv/ml/
+* javadoc/org/opencv/ml/._CvANN_MLP.html
+* javadoc/org/opencv/ml/._CvANN_MLP_TrainParams.html
+* javadoc/org/opencv/ml/._CvBoost.html
+* javadoc/org/opencv/ml/._CvBoostParams.html
+* javadoc/org/opencv/ml/._CvDTree.html
+* javadoc/org/opencv/ml/._CvDTreeParams.html
+* javadoc/org/opencv/ml/._CvERTrees.html
+* javadoc/org/opencv/ml/._CvGBTrees.html
+* javadoc/org/opencv/ml/._CvGBTreesParams.html
+* javadoc/org/opencv/ml/._CvKNearest.html
+* javadoc/org/opencv/ml/._CvNormalBayesClassifier.html
+* javadoc/org/opencv/ml/._CvParamGrid.html
+* javadoc/org/opencv/ml/._CvRTParams.html
+* javadoc/org/opencv/ml/._CvRTrees.html
+* javadoc/org/opencv/ml/._CvSVM.html
+* javadoc/org/opencv/ml/._CvSVMParams.html
+* javadoc/org/opencv/ml/._CvStatModel.html
+* javadoc/org/opencv/ml/._EM.html
+* javadoc/org/opencv/ml/._Ml.html
+* javadoc/org/opencv/ml/._package-frame.html
+* javadoc/org/opencv/ml/._package-summary.html
+* javadoc/org/opencv/ml/._package-tree.html
+* javadoc/org/opencv/ml/CvANN_MLP.html
+* javadoc/org/opencv/ml/CvANN_MLP_TrainParams.html
+* javadoc/org/opencv/ml/CvBoost.html
+* javadoc/org/opencv/ml/CvBoostParams.html
+* javadoc/org/opencv/ml/CvDTree.html
+* javadoc/org/opencv/ml/CvDTreeParams.html
+* javadoc/org/opencv/ml/CvERTrees.html
+* javadoc/org/opencv/ml/CvGBTrees.html
+* javadoc/org/opencv/ml/CvGBTreesParams.html
+* javadoc/org/opencv/ml/CvKNearest.html
+* javadoc/org/opencv/ml/CvNormalBayesClassifier.html
+* javadoc/org/opencv/ml/CvParamGrid.html
+* javadoc/org/opencv/ml/CvRTParams.html
+* javadoc/org/opencv/ml/CvRTrees.html
+* javadoc/org/opencv/ml/CvSVM.html
+* javadoc/org/opencv/ml/CvSVMParams.html
+* javadoc/org/opencv/ml/CvStatModel.html
+* javadoc/org/opencv/ml/EM.html
+* javadoc/org/opencv/ml/Ml.html
+* javadoc/org/opencv/ml/package-frame.html
+* javadoc/org/opencv/ml/package-summary.html
+* javadoc/org/opencv/ml/package-tree.html
+* javadoc/org/opencv/objdetect/
+* javadoc/org/opencv/objdetect/._CascadeClassifier.html
+* javadoc/org/opencv/objdetect/._HOGDescriptor.html
+* javadoc/org/opencv/objdetect/._Objdetect.html
+* javadoc/org/opencv/objdetect/._package-frame.html
+* javadoc/org/opencv/objdetect/._package-summary.html
+* javadoc/org/opencv/objdetect/._package-tree.html
+* javadoc/org/opencv/objdetect/CascadeClassifier.html
+* javadoc/org/opencv/objdetect/HOGDescriptor.html
+* javadoc/org/opencv/objdetect/Objdetect.html
+* javadoc/org/opencv/objdetect/package-frame.html
+* javadoc/org/opencv/objdetect/package-summary.html
+* javadoc/org/opencv/objdetect/package-tree.html
+* javadoc/org/opencv/photo/
+* javadoc/org/opencv/photo/._Photo.html
+* javadoc/org/opencv/photo/._package-frame.html
+* javadoc/org/opencv/photo/._package-summary.html
+* javadoc/org/opencv/photo/._package-tree.html
+* javadoc/org/opencv/photo/Photo.html
+* javadoc/org/opencv/photo/package-frame.html
+* javadoc/org/opencv/photo/package-summary.html
+* javadoc/org/opencv/photo/package-tree.html
+* javadoc/org/opencv/utils/
+* javadoc/org/opencv/utils/._Converters.html
+* javadoc/org/opencv/utils/._package-frame.html
+* javadoc/org/opencv/utils/._package-summary.html
+* javadoc/org/opencv/utils/._package-tree.html
+* javadoc/org/opencv/utils/Converters.html
+* javadoc/org/opencv/utils/package-frame.html
+* javadoc/org/opencv/utils/package-summary.html
+* javadoc/org/opencv/utils/package-tree.html
+* javadoc/org/opencv/video/
+* javadoc/org/opencv/video/._BackgroundSubtractor.html
+* javadoc/org/opencv/video/._BackgroundSubtractorMOG.html
+* javadoc/org/opencv/video/._BackgroundSubtractorMOG2.html
+* javadoc/org/opencv/video/._KalmanFilter.html
+* javadoc/org/opencv/video/._Video.html
+* javadoc/org/opencv/video/._package-frame.html
+* javadoc/org/opencv/video/._package-summary.html
+* javadoc/org/opencv/video/._package-tree.html
+* javadoc/org/opencv/video/BackgroundSubtractor.html
+* javadoc/org/opencv/video/BackgroundSubtractorMOG.html
+* javadoc/org/opencv/video/BackgroundSubtractorMOG2.html
+* javadoc/org/opencv/video/KalmanFilter.html
+* javadoc/org/opencv/video/Video.html
+* javadoc/org/opencv/video/package-frame.html
+* javadoc/org/opencv/video/package-summary.html
+* javadoc/org/opencv/video/package-tree.html
+* javadoc/overview-frame.html
+* javadoc/overview-summary.html
+* javadoc/overview-tree.html
+* javadoc/package-list
+* javadoc/resources/
+* javadoc/resources/._inherit.gif
+* javadoc/resources/inherit.gif
+* javadoc/serialized-form.html
+* javadoc/stylesheet.css
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => openCVModule2411/src/main/AndroidManifest.xml
+* lint.xml => openCVModule2411/lint.xml
+* res/ => openCVModule2411/src/main/res/
+* src/ => openCVModule2411/src/main/java/
+* src/._org => openCVModule2411/src/main/resources/._org
+* src/org/._opencv => openCVModule2411/src/main/resources/org/._opencv
+* src/org/opencv/._android => openCVModule2411/src/main/resources/org/opencv/._android
+* src/org/opencv/._calib3d => openCVModule2411/src/main/resources/org/opencv/._calib3d
+* src/org/opencv/._contrib => openCVModule2411/src/main/resources/org/opencv/._contrib
+* src/org/opencv/._core => openCVModule2411/src/main/resources/org/opencv/._core
+* src/org/opencv/._engine => openCVModule2411/src/main/resources/org/opencv/._engine
+* src/org/opencv/._features2d => openCVModule2411/src/main/resources/org/opencv/._features2d
+* src/org/opencv/._gpu => openCVModule2411/src/main/resources/org/opencv/._gpu
+* src/org/opencv/._highgui => openCVModule2411/src/main/resources/org/opencv/._highgui
+* src/org/opencv/._imgproc => openCVModule2411/src/main/resources/org/opencv/._imgproc
+* src/org/opencv/._ml => openCVModule2411/src/main/resources/org/opencv/._ml
+* src/org/opencv/._objdetect => openCVModule2411/src/main/resources/org/opencv/._objdetect
+* src/org/opencv/._photo => openCVModule2411/src/main/resources/org/opencv/._photo
+* src/org/opencv/._utils => openCVModule2411/src/main/resources/org/opencv/._utils
+* src/org/opencv/._video => openCVModule2411/src/main/resources/org/opencv/._video
+* src/org/opencv/engine/._OpenCVEngineInterface.aidl => openCVModule2411/src/main/aidl/org/opencv/engine/._OpenCVEngineInterface.aidl
+* src/org/opencv/engine/OpenCVEngineInterface.aidl => openCVModule2411/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
